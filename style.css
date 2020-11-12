@@ -2,3 +2,9 @@ h2 {
   font-family: Arial, sans-serif;
   color: red;
 }
+
+img {
+ max-width: 100%;
+ height: auto;
+ display: block;
+}
